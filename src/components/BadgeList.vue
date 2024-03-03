@@ -12,7 +12,15 @@
   </section>
 </template>
 
-<style>
+<style scoped>
+section {
+  max-width: 30rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
+
 section h2 {
   margin: 0.5rem 0;
   color: #3a3a3a;
