@@ -21,7 +21,6 @@ header {
   justify-content: space-between;
   align-items: center;
 }
-
 div {
   max-width: 30rem;
   margin: 2rem auto;
